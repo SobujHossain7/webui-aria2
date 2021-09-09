@@ -15,8 +15,8 @@ export default angular
       // either add the token field or the user and pass field, not both.
       // token: '$YOUR_SECRET_TOKEN$'
       /*-----------------------------*/
-      // user: '*YOUR_USERNAME*',
-      // pass: '*YOUR_SECRET_PASS*'
+      // user: '*root*',
+      // pass: '*password*'
     },
     directURL: "" // If supplied, links will be created to enable direct download from the aria2 server, requires appropriate webserver to be configured
   })
